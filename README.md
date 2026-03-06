@@ -1,12 +1,8 @@
-# 2023F CS2910 Project Report
-**Group Members**
-1. Laura Nweneka (0345887)
-2. Ridwan Kolapo (0348715)
 
 # Summary of Game
 _
 
-The game we chose to build is called Diamant, which involves 2-8 players. Diamant follows the players into a mine, where they
+The game is called Diamant, which involves 2-8 players. Diamant follows the players into a mine, where they
 either recover jewels and relics worth 5 and 1 point respectively, or they could be stumped by different traps. After each play 
 of cards, the players have the choice to stay in the mine, or leave to their camps. If they leave, then they can keep their treasure. 
 If they don't leave, then they keep playing. But 2 of the same traps appear in the game, then the round is over and any player still 
@@ -120,44 +116,3 @@ We used ChatGPT, after writing all the main classes by ourselves,
 to see if there were any aspects of the main code that could be improved. For instance,
 identifying redundant methods. We also used ChatGPT to understand how to write
 assertions for testing.
-
-### How did you learn about the tools used by your group (delete ones that don't apply)?
-_ChatGPT is an AI the most students use and misuse for their academics, which made us hesitant
-to use it in the first place. But, we realized that we could use it as an assistant, rather than
-using it to build the entire project._
-
-### Reflecting on your experience:
-_Write a short reflection on your use of generative AI in this project, including if you did not use it. 
-You may use the prompts as headings if you wish. (500 words)_  
-
-_We really wanted to challenge ourselves and test our knowledge 
-with this project. So we decided to do all the main codes without the help of AI. Instead of using ChatGPT when we got stuck,
-we used the class slides and Perusall. For example, we knew that the game needed to have a deck of cards, which is also a linked
-list, so we read up on the Linked list and Stack sections from Perusall, and learnt how to build a stack. We made this stack, which 
-became the deck. Of course, after doing all that, we realized that we could have easily imported stack from java utilities, but we
-decided to leave it in the code anyway._
-
-_Making the main classes, essentially constructing the entire game, definitely helped with critical thinking, as well as patience. 
-There were so many aspects of this game that we didn't even plan for in the beginning, a level of complexity that we didn't exactly 
-plan for in the beginning. Having to account for every action and decision was definitely a tedious task. We took a lot more notes
-than we thought we would, because it helped us keep track of what we had done, what we needed to do and any bugs we found. Writing 
-the different processes down also helped it to not feel like there was too much going on at once, and its because we could track down
-where we were._
-
-_We did use ChatGPT to help understand how to write test codes for the classes we made, because it's not something that was extensively
-covered in class, and we didn't really know how to do it. When writing the tests, we went back and forth
-between ChatGPT and tests for the labs we've done. We wanted to use ChatGPT as a guide or an assistant, so that we don't misuse it
-and also so that we actually gain more knowledge from this whole process._
-
-_In as much as we did the majority of the work by ourselves, using AI gave us a level of assurance, that our code was actually good and we
-actually knew what we were doing._
-
-_When we started, we thought that each of us could do certain tasks by ourselves and then merge at the end, so we made branches. But we quickly realized
-that it was more beneficial for us to work together on the same computer, just so that we could bounce ideas off each other and highlight
-errors to each other that maybe we couldn't se for ourselves. So we mostly worked on the main code on Laura's system, and the rest on Ridwan's
-system._
-
-
-
-# Bonus Consideration:
-If you have aspects of your project you would like considered for the available bonus.
