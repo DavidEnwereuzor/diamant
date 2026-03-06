@@ -1,4 +1,3 @@
-
 public class RelicCard extends Cards{
     /**
      * This is a class that represents relic cards, which inherits from cards class.
