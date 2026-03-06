@@ -1,4 +1,3 @@
-package upei.project;
 
 import java.util.*;
 public class Game {

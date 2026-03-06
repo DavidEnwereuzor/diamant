@@ -1,4 +1,3 @@
-package upei.project;
 
 public class RelicCard extends Cards{
     /**

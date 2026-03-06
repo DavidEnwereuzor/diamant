@@ -1,4 +1,3 @@
-package upei.project;
 
 public class TreasureCard extends Cards {
     private final int treasureCount; // rubie value of each the card

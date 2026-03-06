@@ -1,4 +1,3 @@
-package upei.project;
 
 import org.junit.jupiter.api.Test;
 
